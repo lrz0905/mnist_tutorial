@@ -28,5 +28,5 @@ Training accuracy: 0.95625
 
 Test accuracy: 0.9584
 
-sklearn相关代码在classifier.py文件中
+sklearn相关代码在classifier.py文件中/n
 pytorch相关代码在pytorch.py文件中
