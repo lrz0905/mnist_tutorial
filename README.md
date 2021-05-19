@@ -20,7 +20,7 @@ Q4:
 
 SVM2:Training accuracy: 97.73%
 
-SVM2:Testing accuracy: 85.00%
+SVM2:Testing accuracy: 86.30%
 
 Q5:
 
