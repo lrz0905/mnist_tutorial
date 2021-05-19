@@ -1,5 +1,6 @@
 Q1:
 LogisticRegression:Training accuracy: 95.30%
+
 LogisticRegression:Testing accuracy: 88.00%
 
 Q2:
